@@ -1,3 +1,5 @@
+# Insta-clone
+
 A responsive social media web app built using React, Vite, and Bootstrap.
 Tech stack "React + Vite, Bootstrap, JSON for test data, React Router"
 
